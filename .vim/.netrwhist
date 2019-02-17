@@ -1,0 +1,11 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =9
+let g:netrw_dirhist_1='/home/david/cornell/nowack_lab/code/Nowack_Lab/Procedures'
+let g:netrw_dirhist_2='/home/david/docker/dhl88/labpython'
+let g:netrw_dirhist_3='/home/david/cornell/nowack_lab/labnotebook/2018/06/isaiah_magneticdipole/dipoletester'
+let g:netrw_dirhist_4='/home/david/cornell/nowack_lab/labnotebook/2018/projects/plot_squid_noise'
+let g:netrw_dirhist_5='/home/david/docker/dhl88/labpython_qt5'
+let g:netrw_dirhist_6='/mnt/labshare/data/bluefors/blueforslogs/16-07-20'
+let g:netrw_dirhist_7='/home/david/cornell/nowack_lab/code/Nowack_Lab/Testing/test_dataset'
+let g:netrw_dirhist_8='/home/david/docker/dhl88/latex/scripts'
+let g:netrw_dirhist_9='/home/david/docker/dhl88/anaconda3/sty'
