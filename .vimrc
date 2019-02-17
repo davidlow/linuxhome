@@ -96,6 +96,7 @@ set t_Co=256
 "set foldmethod=syntax "code folding with indent method zo opens, zc closes
 set listchars=eol:⏎,tab:␉·,trail:␠,nbsp:⎵
 let g:indentLine_char = '┆'
+let g:tex_conceal = ""
 "set list
 
 
